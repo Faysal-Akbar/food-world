@@ -1,0 +1,63 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(117, 102, 102);
+    margin: 0;
+}
+h2{
+    line-height: 25px;
+    font-size: 40px;
+}
+#for-margin{
+    margin-left: 5%;
+    padding-bottom: 20%;
+}
+.paragraph{
+    margin: 0;
+    padding-bottom: 10%;
+}
+.span-col{
+    color: rgb(248, 3, 97);
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(136, 3, 85),red);
+    color: white;
+    margin: 10px 10px;
+    padding: 10px 45px;
+    border-radius: 12px;
+}
+.half-width{
+    width: 50%;
+    padding-top: 5%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.half-width img{
+    width: 67.73%;
+}
+.flexible-container{
+    display: flex;
+    padding-bottom: 10%;
+}
+#background-image{
+    background-image: url(Frame1.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    height: 100%;
+}
+.Recipies-section{
+    text-align: center;
+}
+.images img{
+    width: 30%;
+    margin-left: 30px;
+}
+.image-area{
+    width: 100%;
+    box-shadow: 10px 10px 40px rgb(233, 9, 83);
+}
+.footer-sec{
+    text-align: center;
+    background-color: black;
+    padding: 8px;
+}
